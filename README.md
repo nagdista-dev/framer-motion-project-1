@@ -1,4 +1,4 @@
-# Portfolio Website
+# Framer Motion Project 1
 
 A personal portfolio website built to present my skills, projects, and contact details in a modern, animated single-page layout.
 
@@ -13,6 +13,10 @@ This project is designed to give visitors a quick but polished view of who I am 
 - A featured projects section
 - A contact section with phone, email, office details, and a map
 - A footer with social links
+
+## Preview
+
+- https://framer-motion-project-1.netlify.app
 
 ## Built With
 
